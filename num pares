@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(){
+	
+	int i = 2, n1;
+
+	
+	printf("digite um numero inteiro positivo\n");
+	scanf("%d", &n1);
+	
+	while(i <= n1){
+		printf("%d\t", i);
+		
+		i +=2;
+		
+
+	
+	
+	}
+	
+	
+	
+	
+	
+}
